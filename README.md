@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am Md. Parvej Hoque Palash, a **FullStack Developer** . Having around 1 years of experience in full-stack web development, but since 2023, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-hoque-palash/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-hoque-palash/)
 
 ## Skills
 
