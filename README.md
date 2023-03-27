@@ -24,7 +24,7 @@ I am Md. Parvej Hoque Palash, a Full Stack Developer <img src="https://media.gip
 
 - :zap: In my free time, I solve problems on Codeforces, Leetcode and read tech articles. I also like photography and drawing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-hoque-palash/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-palash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-hoque-palash/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
