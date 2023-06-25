@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 I am Md. Parvej Hoque Palash, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. 
 - :telescope: I’m pursuing my BSc in CSE from Jahangirnagar University and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I’m currently learning different Stacks, Databases and Languages like Pure CSS, Bootstap, Tailwind, React, JavaScript, Node, Express, MongoDB, MySQL.
 
-- :zap: In my free time, I solve problems on Codeforces, Leetcode and read tech articles. I also like photography and drawing.
+- :zap: In my free time, I solve problems on Codeforces, AtCoder, Leetcode and read tech articles. I also like photography and drawing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-palash-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parvej-hoque-palash/)
 
