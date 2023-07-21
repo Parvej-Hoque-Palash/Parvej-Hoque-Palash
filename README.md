@@ -44,7 +44,7 @@ I am Md. Parvej Hoque Palash, a Full Stack Developer(MERN) <img src="https://med
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=parvej-hoque-palash&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvej-hoque-palash&hide=TeX&layout=compact&theme=prussian)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Parvej-Hoque-Palash)
 <!--
 ## 📝 Top Blog Posts
 
