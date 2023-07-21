@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>
 ### Assalamu alaikum
 
-I am Md. Parvej Hoque Palash, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. 
+I am Md. Parvej Hoque Palash, a Full Stack Developer(MERN) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. 
 - :telescope: I’m pursuing my BSc in CSE from Jahangirnagar University and contributing to frontend and backend for building web applications.
 
 - :seedling: I’m currently learning different Stacks, Databases and Languages like Pure CSS, Bootstap, Tailwind, React, JavaScript, Node, Express, MongoDB, MySQL.
@@ -39,6 +39,12 @@ I am Md. Parvej Hoque Palash, a Full Stack Developer <img src="https://media.gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=parvej-hoque-palash&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvej-hoque-palash&hide=TeX&layout=compact&theme=prussian)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
 <!--
 ## 📝 Top Blog Posts
 
@@ -48,10 +54,4 @@ I am Md. Parvej Hoque Palash, a Full Stack Developer <img src="https://media.gip
 -   [Journey to Become a Blockchain Developer](https://medium.com/coinmonks/journey-to-become-a-blockchain-developer-ae31d062eb3a)
 -   [Are we in NFT Bubble?](https://medium.com/coinmonks/are-we-in-nft-bubble-8a763f25b760)
 -->
-## Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
 
