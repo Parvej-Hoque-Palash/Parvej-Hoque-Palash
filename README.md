@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 </div>
 ### Assalamu alaikum
 
-I am Md. Parvej Hoque Palash, a Full Stack Developer(MERN) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. 
-- :telescope: I’m pursuing my BSc in CSE from Jahangirnagar University and contributing to frontend and backend for building web applications.
+I am Md. Parvej Hoque Palash, a Trainee Software Engineer (Python) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh. 
+- :telescope: I have completed my BSc from Jahangirnagar University. Now I’m pursuing my MSc in CSE from Jahangirnagar University and contributing to frontend and backend for building web applications.
 
-- :seedling: I’m currently learning different Stacks, Databases and Languages like Pure CSS, Bootstap, Tailwind, React, JavaScript, Node, Express, MongoDB, MySQL.
+- :seedling: I’m currently learning different Stacks, Databases and Languages like Pure CSS, Bootstap, Tailwind, React, Python, Django, JavaScript, Node, Express, MongoDB, MySQL.
 
 - :zap: In my free time, I solve problems on Codeforces, AtCoder, Leetcode and read tech articles. I also like photography and drawing.
 
