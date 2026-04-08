@@ -58,7 +58,6 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 <div align="center">
  <a href="https://www.linkedin.com/in/parvej-hoque-palash/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
- <a href="https://github.com/Parvej-Hoque-Palash"><img src="https://skillicons.dev/icons?i=github"/></a>
  <a href="mailto:mdparvejhoquepalash.official@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </div>
 
