@@ -72,14 +72,6 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 ---
 
-### 🧠 Learning & Exploring
-
-* System Design
-* Distributed Systems
-* docker, cloudflare, vercel infra workflows
-
----
-
 ### 📫 Connect with Me
 
 <div align="center">
