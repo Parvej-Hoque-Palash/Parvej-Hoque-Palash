@@ -22,24 +22,6 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 ---
 
-### 💼 Professional Experience
-
-**Software Engineer — Divine IT Limited (Apr 2025 - Present)**
-
-* Designing full bidding/auction modules in PrismERP
-* Real-time bidding dashboards, automated workflows
-* Search session key-based URL optimization
-* SMS trigger module with multi-receiver support
-
-**Trainee Software Engineer — Divine IT Limited (Jul 2024 - Mar 2025)**
-
-* SQL Query Builder (React + Redux)
-* 1,000+ SQLAlchemy MySQL → PostgreSQL conversions
-* Portlet-based dashboards with user permission
-* Worked with Furinapy on PrismERP
-
----
-
 ### 🏗️ Featured Projects
 
 | Project             | Tech                | Description                |
