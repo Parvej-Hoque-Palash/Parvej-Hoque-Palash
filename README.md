@@ -1,10 +1,6 @@
 # Hi there 👋
-
-<div align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
-</div>
-
-## 🚀 Software Engineer | Full Stack Developer
+## I am Md. Parvej Hoque Palash
+### 🚀 Software Engineer | Full Stack Developer
 
 <div align="center">
  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140"/>
