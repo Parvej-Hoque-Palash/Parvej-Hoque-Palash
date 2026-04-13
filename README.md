@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Parvej-Hoque-Palash&color=0d9488&style=flat-square" alt="Profile Views"/>
 </p>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (Python) at Divine IT Limited**, building reliable systems with modern full-stack technologies.
 
@@ -17,7 +17,7 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 - 💻 You'll find me solving problems on platforms like [LeetCode](https://leetcode.com/u/php_980/)
 
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <div align="left">
 
@@ -49,7 +49,7 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 </div>
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 * Ranked **19th** (2024) & **29th** (2022) in Code Samurai Hackathon
 * Solved **1000+ problems** across platforms
@@ -57,7 +57,7 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 * University Scholarship **3 times**
 
 ---
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parvej-hoque-palash/" target="_blank">
@@ -70,7 +70,7 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 ---
 
-### 🌱 Fun Facts
+## 🌱 Fun Facts
 
 * Code, Coffee, Repeat ☕
 * Loves photography & drawing
