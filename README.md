@@ -19,7 +19,7 @@ I’m **Md. Parvej Hoque Palash**, currently working as a **Software Engineer (P
 
 ### 🚀 Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 💻 Languages & Core
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
